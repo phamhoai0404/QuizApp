@@ -1,0 +1,20 @@
+const Images = {
+  imageHeader: require("../assets/images/imageHeader.png"),
+  award: require("../assets/images/award.png"),
+  trophy: require("../assets/images/trophy.png"),
+  icon: require("../assets/images/icon.png"),
+  checkedBlue: require("../assets/images/checkedBlue.png"),
+  checkedGreen: require("../assets/images/checkedGreen.png"),
+  checkedOrange: require("../assets/images/checkedOrange.png"),
+  clockCount: require("../assets/images/clockCount.png"),
+  dotBlue: require("../assets/images/dotBlue.png"),
+  dotGreen: require("../assets/images/dotGreen.png"),
+  star: require("../assets/images/star.png"),
+  check: require("../assets/images/check.png"),
+  faild: require("../assets/images/faild.png"),
+  boy: require("../assets/images/boy.png"),
+  girl: require("../assets/images/girl.png"),
+  play: require("../assets/images/play.png"),
+  stop: require("../assets/images/stop.png"),
+};
+export default Images;

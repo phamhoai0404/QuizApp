@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "QuizApp",
+    "description": "React Native - Material Kit PRO Custom by TUDP",
+    "slug": "QuizApp",
+    "privacy": "unlisted",
+    "sdkVersion": "39.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.7.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#6C24AA"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.masakiahihi.QuizApp"
+    }
+  }
+}
