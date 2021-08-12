@@ -45,5 +45,5 @@ const HistoryDetail = ({ navigation, route }) => {
     </Block>
   );
 };
-
+sssssssssssssssssssssssssssss
 export default HistoryDetail;
